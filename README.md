@@ -98,19 +98,15 @@ images/dashboard.png
 
 
 global-electronics-retail-analysis/
-│
 ├── data/
-│ ├── raw/ # Original messy dataset
-│ └── cleaned/ # Cleaned dataset after SQL processing
-│
+│   ├── raw/          # Original messy dataset
+│   └── cleaned/      # Cleaned dataset after SQL processing
 ├── sql/
-│ └── data_cleaning.sql # SQL scripts used for cleaning
-│
+│   └── data_cleaning.sql  # SQL scripts used for cleaning
 ├── images/
-│ └── dashboard.png # Dashboard preview image
-│
+│   └── dashboard.png      # Dashboard preview image
 ├── powerbi/
-│ └── dashboard.pbix # Power BI dashboard file
+│   └── dashboard.pbix     # Power BI dashboard file
 └── README.md
 
 
