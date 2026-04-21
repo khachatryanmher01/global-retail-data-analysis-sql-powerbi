@@ -98,6 +98,7 @@ images/dashboard.png
 
 
 global-electronics-retail-analysis/
+` ` `
 ├── data/
 │   ├── raw/          # Original messy dataset
 │   └── cleaned/      # Cleaned dataset after SQL processing
@@ -108,7 +109,7 @@ global-electronics-retail-analysis/
 ├── powerbi/
 │   └── dashboard.pbix     # Power BI dashboard file
 └── README.md
-
+` ` `
 
 ---
 
