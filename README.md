@@ -134,11 +134,4 @@ It demonstrates the ability to turn raw data into meaningful visual reports that
 
 ---
 
-## 🔗 Let's Connect
-
-- GitHub: https://github.com/yourusername  
-- Fiverr: (Add your Fiverr link here)  
-
----
-
 ## ⭐ If you found this project useful, feel free to star the repository!
