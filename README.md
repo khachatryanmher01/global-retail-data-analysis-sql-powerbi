@@ -134,20 +134,6 @@ It demonstrates the ability to turn raw data into meaningful visual reports that
 
 ---
 
-## 🧑‍💻 About Me
-
-I specialize in:
-- Data cleaning using SQL  
-- Data analysis and transformation  
-- Dashboard development in Power BI  
-
-I can help businesses:
-- Clean and organize their data  
-- Build dashboards and reports  
-- Generate insights for better decisions  
-
----
-
 ## 🔗 Let's Connect
 
 - GitHub: https://github.com/yourusername  
